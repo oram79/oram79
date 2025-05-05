@@ -19,4 +19,4 @@ Here, you'll find a selection of my projects, each demonstrating my proficiency 
 ## 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/logan-oram-871293263)
-- Email: logansjoram7922@gmail.com
+- logansjoram7922@gmail.com
