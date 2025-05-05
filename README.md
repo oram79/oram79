@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Logan Oram
 
-I'm a fresh software development graduate student, passionate about building modern, user-friendly web applications. I enjoy exploring new technologies and continuously improving my development skills.
+I'm a fresh software development graduate, passionate about building modern, user-friendly web applications. I enjoy exploring new technologies and continuously improving my development skills.
 
 ## 🚀 Portfolio
 
