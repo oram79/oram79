@@ -3,7 +3,7 @@
 
 <p align="center">
   After finishing a software development program and completing a handful of personal projects and apps, 
-  I'm now branching into systems and networking, picking up whatever the tech world throws at me next.
+  I'm now branching into Computer Systems & Networking, picking up whatever the tech world throws at me next.
 </p>
 
 ---
