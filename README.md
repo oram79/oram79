@@ -38,7 +38,7 @@
 
 
 
-### 🔗 Connect
+### Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://loganoram.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-2B579A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://link-to-your-resume)
