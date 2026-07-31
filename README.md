@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Logan 👋</h1>
-<h3 align="center">Systems & Network Administration student - CNA </h3>
+<h3 align="center"> Computer Systems & Networking student - CNA </h3>
 
 <p align="center">
   After finishing a software development program and completing a handful of personal projects and apps, 
-  I'm now branching into Computer Systems & Networking, picking up whatever the tech world throws at me next.
+  I'm now branching into Computer Systems & Networking
 </p>
 
 ---
