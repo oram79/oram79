@@ -2,8 +2,8 @@
 <h3 align="center"> Computer Systems & Networking student - CNA </h3>
 
 <p align="center">
-  After finishing a software development program and completing a handful of personal projects and apps, 
-  I'm now branching into Computer Systems & Networking
+  After finishing a Software Development program and completing a handful of personal projects and apps, 
+  I'm now branching into Computer Systems & Networking at CNA
 </p>
 
 ---
