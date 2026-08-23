@@ -2,7 +2,6 @@
 
 ### Computer Systems & Networking student - CNA
 
-After finishing a Software Development program and completing a handful of personal projects and apps, I'm now branching into Computer Systems & Networking at CNA
 
 ---
 
