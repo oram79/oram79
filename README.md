@@ -32,6 +32,6 @@
 ### Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://loganoram.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-2B579A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Logan-Oram-CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-2B579A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](CV-Logan-Oram.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-oram-871293263/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logansjoram7922@gmail.com)
