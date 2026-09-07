@@ -8,6 +8,7 @@
 - &nbsp;Currently working on school labs and personal projects
 - &nbsp;Learning Networking, Linux & Windows Server administration, Scripting and Game Development
 - &nbsp;Building skills in Network Configuration, Virtualization, and System Security
+- &nbsp;Software Development Graduate
 - &nbsp;Reach me at **logansjoram7922@gmail.com**
 
 ---
